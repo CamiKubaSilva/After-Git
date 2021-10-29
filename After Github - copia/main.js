@@ -1,0 +1,1 @@
+let user = prompt("Dime tu nombre")
